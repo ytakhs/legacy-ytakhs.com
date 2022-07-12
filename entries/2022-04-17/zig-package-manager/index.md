@@ -1,10 +1,14 @@
 ---
 title: Ziglangのパッケージマネージャ
-description: サイトのインフラをCloudflare Pagesに移行した
+description: Zigのパッケージマネージャに関して調べた
 createdAt: 2022-04-18T20:57:32+09:00
 ---
 
-Ziglangにはまだ公式のパッケージマネージャが存在してない。
+Ziglangにはまだ公式のパッケージマネージャが存在してない。(22/4/17時点)
+
+以下のIssueで仕様に関して議論されているステータス。
+
+<https://github.com/ziglang/zig/issues/943>
 
 そのため、exeやlibで他のパッケージを利用する場合には、`git submodule`かサードパーティのパッケージマネージャを使う必要がある。
 
