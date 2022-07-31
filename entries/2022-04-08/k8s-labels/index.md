@@ -1,6 +1,6 @@
 ---
 title: k8sのlabelsが色々ある件
-description:
+description: k8sのlabelsが色々ある件
 createdAt: 2022-04-08T13:25:48+09:00
 ---
 

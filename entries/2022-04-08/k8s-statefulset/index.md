@@ -1,6 +1,6 @@
 ---
 title: k8sのStatefulSet
-description:
+description: k8sのStatefulSet
 createdAt: 2022-04-08T22:47:11+09:00
 ---
 

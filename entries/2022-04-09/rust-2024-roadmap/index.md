@@ -1,6 +1,6 @@
 ---
 title: Rust 2024に向けてのロードマップを読んだ
-description:
+description: Rust 2024に向けてのロードマップを読んだ
 createdAt: 2022-04-09T22:23:04+09:00
 ---
 
