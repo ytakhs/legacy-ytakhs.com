@@ -2,6 +2,7 @@
 title: ZigでJSONパーサーを書いた
 description: ZigでJSONパーサーを書いた
 createdAt: 2022-07-17T22:04:20+09:00
+emoji: 🦖
 ---
 
 ZigでJSONパーサーを書いたみた。

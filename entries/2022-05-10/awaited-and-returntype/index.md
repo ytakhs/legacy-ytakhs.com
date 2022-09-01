@@ -2,6 +2,7 @@
 title: "[TypeScript]AwaitedとReturnTypeを調べたメモ"
 description: TypeScriptのAwaited, ReturnTypeの挙動について調べた
 createdAt: 2022-05-10T23:01:37+09:00
+emoji: 🖐
 ---
 
 ## 経緯

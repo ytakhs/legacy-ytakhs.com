@@ -2,6 +2,7 @@
 title: Ziglangのパッケージマネージャ
 description: Zigのパッケージマネージャに関して調べた
 createdAt: 2022-04-18T20:57:32+09:00
+emoji: 🦖
 ---
 
 Ziglangにはまだ公式のパッケージマネージャが存在してない。(22/4/17時点)
